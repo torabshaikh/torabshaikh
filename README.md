@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Mo Torab Shaikh!
 
-<!--
-**torabshaikh/torabshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** specializing in:
+- **Edge Computing**
+- **Computer Vision**
+- **Robotics Software Engineering**
+- **Full Stack Development**
+- **IoT**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+Here are some of the technologies I work with:
+
+**Programming Languages**:
+- Python, TypeScript, Node.js, C/C++, Java
+
+**Frameworks**:
+- Angular, React, NestJS, PyTorch
+
+**Cloud Technologies**:
+- AWS (EC2, Lambda, S3, Route53, API Gateway, CloudFormation, and more)
+
+**Tools**:
+- Docker, Git, Shell Scripting, Bitbucket Pipelines
+
+---
+
+## 🌟 Notable Projects
+
+### **Genie**
+A platform enabling users to create learning-based games using **Generative AI**.
+- **Technologies**: ChatGPT APIs, Node.js, AWS
+- **Role**: Lead Engineer and Technical Architect
+
+### **Foundry**
+An auto-scalable IoT platform for managing and monitoring connected devices.
+- **Technologies**: Angular, AWS, PostgreSQL
+- **Role**: Full-Stack Engineer
+
+### **Automated Attendance System**
+A system utilizing CCTV streams for on-device **face recognition** to mark attendance.
+- **Technologies**: Python, OpenCV, AWS
+- **Role**: Device-Side Application Developer
+
+For more, check out my [GitHub Repositories](https://github.com/torabshaikh).
+
+---
+
+## 📬 Contact Me
+
+- **Email**: [motorabs@buffalo.edu](mailto:motorabs@buffalo.edu)
+- **LinkedIn**: [Torab Shaikh](https://linkedin.com/in/torabshaikh)
+- **GitHub**: [torabshaikh](https://github.com/torabshaikh)
+- **Blog**: [CloudNode.tech](https://cloudnode.tech)
+
+---
+
+### 🏆 Achievements
+- 4-time **Inter/Intra-College Chess Champion**.
+- **Winner**, Himalaya Hostel Fest Sudoku Competition.
+- **Winner**, PwC Deep Learning Hackathon 2017.
+
+---
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate. 😊
