@@ -50,7 +50,7 @@ For more, check out my [GitHub Repositories](https://github.com/torabshaikh).
 
 ## 📬 Contact Me
 
-- **Email**: [motorabs@buffalo.edu](mailto:motorabs@buffalo.edu)
+- **Email**: [torabshaikh5@gmail.com](mailto:torabshaikh5@gmail.com)
 - **LinkedIn**: [Torab Shaikh](https://linkedin.com/in/torabshaikh)
 - **GitHub**: [torabshaikh](https://github.com/torabshaikh)
 - **Blog**: [CloudNode.tech](https://cloudnode.tech)
