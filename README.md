@@ -6,7 +6,7 @@ A software engineer with 6 years of experience, including 3 years as a tech lead
 ## Key Skills
 - **Core Languages:** C++, Python, JavaScript, Node.js, TypeScript
 - **Frameworks & Tools:** ROS/ROS2, ReactJS, Angular, FastAPI, NestJS, Docker, Kubernetes, Redis, NGINX, CI/CD
-- **Cloud Platforms:** AWS(EC2, S3, Cloudfront, Serverless stack, IoT Stack, AI stack), Google Cloud
+- **Cloud Platforms:** AWS(EC2, Lambda, API Gateway, S3, Cloudfront, Serverless stack, IoT Stack, AI stack), Google Cloud
 - **AI & Vision:** OpenCV, YOLO, TensorFlow, PyTorch, CUDA, SLAM, Deep Learning
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Jira, Linux, Bash, CI/CD pipelines
