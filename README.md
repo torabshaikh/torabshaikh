@@ -4,18 +4,18 @@
 A software engineer with 6 years of experience, including 3 years as a tech lead, I'm passionate about creating intelligent solutions in areas like AI, Robotics, Computer Vision, and Edge Computing. My background spans full-stack development and cloud technologies, and I'm driven to engineer impactful systems.
 
 ## Key Skills
-**Core Languages:** C++, Python, JavaScript, Node.js, TypeScript
-**Frameworks & Tools:** ROS/ROS2, ReactJS, Angular, FastAPI, NestJS, Docker, Kubernetes, Redis, NGINX, CI/CD
-**Cloud Platforms:** AWS(EC2, S3, Cloudfront, Serverless stack, IoT Stack, AI stack), Google Cloud
-**AI & Vision:** OpenCV, YOLO, TensorFlow, PyTorch, CUDA, SLAM, Deep Learning
-**Databases:** PostgreSQL, MongoDB
-**DevOps & Tools:** Git, Jira, Linux, Bash, CI/CD pipelines
+- **Core Languages:** C++, Python, JavaScript, Node.js, TypeScript
+- **Frameworks & Tools:** ROS/ROS2, ReactJS, Angular, FastAPI, NestJS, Docker, Kubernetes, Redis, NGINX, CI/CD
+- **Cloud Platforms:** AWS(EC2, S3, Cloudfront, Serverless stack, IoT Stack, AI stack), Google Cloud
+- **AI & Vision:** OpenCV, YOLO, TensorFlow, PyTorch, CUDA, SLAM, Deep Learning
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps & Tools:** Git, Jira, Linux, Bash, CI/CD pipelines
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torab-shaikh/)
+<a href="https://www.linkedin.com/in/torab-shaikh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:torabshaikh5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://torabshaikh.github.io/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torabshaikh)
+<a href="https://cloudnode.tech" target="_blank"><img src="https://img.shields.io/badge/Blog-%234CAF50.svg?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
 
 ## My GitHub Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torabshaikh&theme=gotham)
