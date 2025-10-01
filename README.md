@@ -5,11 +5,11 @@ A software engineer with 6 years of experience, including 3 years as a tech lead
 
 ## Key Skills
 - **Core Languages:** C++, Python, JavaScript, Node.js, TypeScript
-- **Frameworks & Tools:** ROS/ROS2, ReactJS, Angular, FastAPI, NestJS, Docker, Kubernetes, Redis, NGINX, CI/CD
+- **Frameworks & Tools:** ROS/ROS2, ReactJS, Angular, FastAPI, NestJS, Redis, NGINX
 - **Cloud Platforms:** AWS(EC2, Lambda, API Gateway, S3, Cloudfront, Serverless stack, IoT Stack, AI stack), Google Cloud
-- **AI & Vision:** OpenCV, YOLO, TensorFlow, PyTorch, CUDA, Deep Learning
+- **AI & Vision:** OpenCV, YOLO, TensorFlow, PyTorch, CUDA, Deep Learning, Reinforcement Learning
 - **Databases:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Git, Jira, Linux, Bash, CI/CD pipelines
+- **DevOps & Tools:** Git, Jira, Linux, CMake, Docker, Bash, CI/CD pipelines
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/torab-shaikh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
