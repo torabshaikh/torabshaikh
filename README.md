@@ -8,7 +8,7 @@ Senior Engineer & Ex-Tech Lead. Coming from a startup background, I build practi
 <a href="https://www.linkedin.com/in/torab-shaikh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:torabshaikh5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://torabshaikh.com/)
-<a href="(https://blog.torabshaikh.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-%234CAF50.svg?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
+<a href="https://blog.torabshaikh.co" target="_blank"><img src="https://img.shields.io/badge/Blog-%234CAF50.svg?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
 
 ## My GitHub Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torabshaikh&theme=gotham)
